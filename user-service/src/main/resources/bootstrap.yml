@@ -1,0 +1,5 @@
+spring:
+  cloud:
+    config:
+      enabled: true
+      uri: http://loaclhost:9296
